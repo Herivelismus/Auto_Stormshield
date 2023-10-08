@@ -15,6 +15,5 @@ Change the `id_variable`, `password_variable`, `id_host` in the `login.py` file 
 
 
 ## Contact
-you can always contact me at
-- [jules.massart@etu.emse.fr](mailto:jules.massart@etu.emse.fr)
+you can always contact me at [jules.massart@etu.emse.fr](mailto:jules.massart@etu.emse.fr)
 
