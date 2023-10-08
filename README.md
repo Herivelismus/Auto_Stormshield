@@ -8,7 +8,7 @@ Simply install the dependencies and run the Python script.
 ```bash
   pip3 install requests time bs4
 ```
-Change the `id_variable` and `password_variable` in the `login.py` file then simply run 
+Change the `id_variable`, `password_variable`, `id_host` in the `login.py` file then simply run 
 ```bash
   python3 login.py
 ```
