@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 id_variable = "Your id"
 password_variable = "Your password"
-id_host = "https://fw-cgcp.emse.fr" #do not modify for mines de St
+id_host = "https://fw-cgcp.emse.fr/" #do not modify for mines de St
 
 url = id_host + "auth/plain.html"
 headers = {
