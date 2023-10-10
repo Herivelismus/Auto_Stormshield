@@ -34,5 +34,5 @@ Or you can also pass `id`, `password` and `host` in the terminal:
   gcc login.c -o login -lcurl -lxml2 -lpcre
 ```
 ## Contact
-you can always contact me at [jules.massart@etu.emse.fr](mailto:jules.massart@etu.emse.fr)
+You can always contact me at [jules.massart@etu.emse.fr](mailto:jules.massart@etu.emse.fr)
 
