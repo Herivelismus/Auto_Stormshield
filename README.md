@@ -10,7 +10,7 @@ Download the appropriate version of the program
 - [MacOS x64](link)
 - [MacOS ARM](link)
 - [Linux x64](link)
-Then edit the `credentials.txt` file in the same directory as you executable as so:
+Then edit the `credentials.txt` file in the same directory as your executable as so:
 
 ```bash
   yourid
