@@ -1,19 +1,37 @@
-# Auto_Stormshield
 
-A little python script ton avoid login into the Stormshield portal everytime.
+# Auto Stormshield
 
-## Installation and Usage
+A little C program to avoid logging into the Stormshield portal everytime.
 
-Simply install the dependencies and run the Python script.
+## Setup
+
+Download the appropriate version of the program
+- [Windows x64](link)
+- [MacOS x64](link)
+- [MacOS ARM](link)
+- [Linux x64](link)
+Then edit the `credentials.txt` file in the same directory as you executable as so:
+
 ```bash
-  pip3 install requests time bs4
+  yourid
+  yourpassword
+  https://fw-cgcp.emse.fr
 ```
-Change the `id_variable`, `password_variable`, `id_host` in the `login.py` file then simply run 
+Leave https://fw-cgcp.emse.fr for Mines St Etienne students.
+
+## Usage
+Just run the executable
+
+Or you can also pass `id`, `password` and `host` in the terminal:
+
 ```bash
-  python3 login.py
+  ./login myid my_passwd myhost
 ```
 
-
+## Compile it yourself
+```bash
+  gcc login.c -o login -lcurl -lxml2 -lpcre
+```
 ## Contact
 you can always contact me at [jules.massart@etu.emse.fr](mailto:jules.massart@etu.emse.fr)
 
