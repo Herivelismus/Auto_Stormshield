@@ -8,7 +8,7 @@ A little C program to avoid logging into the Stormshield portal everytime.
 Download the appropriate version of the program
 - [Windows x64](link)
 - [MacOS x64](link)
-- [MacOS ARM](link)
+- [MacOS ARM](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/login_macos_arm)
 - [Linux x64](link)
 
 Then edit the `credentials.txt` file in the same directory as your executable as so:
