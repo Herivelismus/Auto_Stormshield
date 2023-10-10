@@ -6,7 +6,7 @@ A little C program to avoid logging into the Stormshield portal everytime.
 ## Setup
 
 Download the appropriate version of the program
-- <code>[Windows x64](link)
+- <pre>[Windows x64](link)
 - [MacOS x64](link)
 - [MacOS ARM](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/login_macos_arm)
 - [Linux x64](link)
