@@ -11,11 +11,11 @@ Download the appropriate version of the program
 - [MacOS ARM](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/login_macos_arm)
 - [Linux x64](link)
 
-Then edit the `credentials.txt` file in the same directory as your executable as so:
+Then download [credentials.txt](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/credentials.txt) file in the same directory as your executable then edit:
 
 ```bash
-  yourid
-  yourpassword
+  id
+  password
   https://fw-cgcp.emse.fr
 ```
 Leave https://fw-cgcp.emse.fr for Mines St Etienne students.
@@ -26,7 +26,7 @@ Just run the executable
 Or you can also pass `id`, `password` and `host` in the terminal:
 
 ```bash
-  ./login myid my_passwd myhost
+  ./login id password host
 ```
 
 ## Compile it yourself
