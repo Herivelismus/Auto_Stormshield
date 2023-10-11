@@ -9,7 +9,7 @@ Download the appropriate version of the program
 - [Windows x64](link)
 - [MacOS x64](link)
 - [MacOS ARM](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/login_macos_arm)
-- [Linux x64](link)
+- [Linux x64](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/login_linux_x86-64))
 
 Then download [credentials.txt](https://github.com/Herivelismus/Auto_Stormshield/releases/download/v0.1/credentials.txt) file in the same directory as your executable then edit:
 
